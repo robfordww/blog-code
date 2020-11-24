@@ -1,1 +1,1 @@
-https://aaronraff.dev/writing-a-lexer-in-go
+https://www.aaronraff.dev/blog/how-to-write-a-lexer-in-go
